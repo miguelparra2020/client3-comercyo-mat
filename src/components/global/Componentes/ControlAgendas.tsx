@@ -52,10 +52,6 @@ const CALENDAR_IDS = [
     name: "Agenda con Andres"
   },
   {
-    id: "fdc4409088c4d0760f29cd32c2d3a4a3e2186d44b6926e7775e74f3bd5cabd78@group.calendar.google.com",
-    name: "Agenda con Alex"
-  },
-  {
     id: "36fb159acc4e0b70eb8f6bb199d50d8579a0ab8bf1b635e0c14e0e05403cc0f1@group.calendar.google.com",
     name: "Agenda con Sebas"
   }

@@ -60,13 +60,6 @@ const TeamWork = () => {
       specialties: ["Cortes exclusivos", "Fade", "Barba"],
     },
     {
-      name: "Alex",
-      role: "Barbero Profesional",
-      image: Barber4Img, 
-      experience: "10+ años",
-      specialties: ["Cortes exclusivos", "Fade", "Barba"],
-    },
-    {
       name: "Sebas",
       role: "Barbero Profesional",
       image: Barber5Img, 
