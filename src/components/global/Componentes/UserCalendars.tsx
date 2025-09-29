@@ -38,7 +38,8 @@ const UserCalendars = () => {
 
   const usersControl = [
     {"email":"matbarberempresa@gmail.com"},
-    {"email":"miguelpaez9612@gmail.com"},    
+    {"email":"miguelpaez9612@gmail.com"}, 
+    {"email":"kevinzapata8364@gmail.com"},    
   ]
 
   return (
