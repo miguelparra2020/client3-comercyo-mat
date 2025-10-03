@@ -72,7 +72,7 @@ const personas: Persona[] = [
     cargo: 'barbero',
     descripcion: 'Especialista en cortes clásicos y degradados con 8 años de experiencia',
     destacado: true,
-    imagen: BarberoCarlos,
+    imagen: BarberoAndres,
     dayNotWork: 'domingo',
     
     // Franjas horarias generales
@@ -170,7 +170,7 @@ const personas: Persona[] = [
     cargo: 'barbero',
     descripcion: 'Especialista en cortes clásicos y degradados con 10 años de experiencia',
     destacado: true,
-    imagen: BarberoAndres,
+    imagen: BarberoCarlos,
     dayNotWork: 'domingo',
     
     // Franjas horarias generales
