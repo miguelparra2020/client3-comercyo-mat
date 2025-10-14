@@ -35,7 +35,7 @@ export const ModuelesActives = {
 }
 
 export const company = {
-  name: "MAT",
+  name: "MAT Pro Studio",
   principalColorTitles: "blue",
   principalColorParrafos: "slate",
   principalColorButtonsBg: "yellow",
@@ -277,7 +277,7 @@ export const INTRO_CONFIG = {
     count: 400, 
   },
   BRAND: {
-    name: "MAT",
+    name: "MAT Pro Studio",
     tagline: "Donde cada detalle cuenta",
   },
   LOADING: {
@@ -1079,7 +1079,7 @@ export const generalConfig = {
       heighMinSesion: "90",
       classCardContent: "relative z-10 backdrop-blur-sm bg-black/40 border border-yellow-800 rounded-2xl p-8 shadow-xl", 
       classTextInicialesLogo: "bg-black/80 text-white text-3xl",
-      textInicialesLogo: "MAT",
+      textInicialesLogo: "MAT Pro Studio",
       gradientFrom: "slate-500",
       gradientVia: "yellow-500",
       gradientTo: "stone-500",

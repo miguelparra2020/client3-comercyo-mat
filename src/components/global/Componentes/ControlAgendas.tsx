@@ -159,7 +159,7 @@ const ControlAgendas = () => {
     const calendarId = filteredCalendars[calendarIndex].id
     
     try {
-      const response = await axios.get(`https://backend-mat.vercel.app/api/calendar/events`, {
+      const response = await axios.get(`https://backend-MAT Pro Studio.vercel.app/api/calendar/events`, {
         params: {
           calendarId,
           periodStart: startDate,
@@ -252,7 +252,7 @@ const ControlAgendas = () => {
         }
         
         // Construir la URL para la eliminación del evento
-        const deleteUrl = `https://backend-mat.vercel.app/api/calendar/appointments/${eventToDelete.id}?calendarId=${encodeURIComponent(calendarInfo.id)}`
+        const deleteUrl = `https://backend-MAT Pro Studio.vercel.app/api/calendar/appointments/${eventToDelete.id}?calendarId=${encodeURIComponent(calendarInfo.id)}`
         
         console.log('Eliminando evento con URL:', deleteUrl)
         

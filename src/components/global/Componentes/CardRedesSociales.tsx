@@ -40,7 +40,7 @@ const CardRedesSociales = () => {
 
       {/* Company mission */}
       <p className="text-gray-300 mb-8 max-w-xs">
-        "En MAT, cada corte, cada detalle y cada atención están pensados para quienes no se conforman con lo común. Somos más que una barbería: somos un punto de encuentro entre elegancia, precisión y estilo urbano. Nuestro equipo de barberos expertos está listo para darte un servicio de primer nivel en un ambiente moderno, exclusivo y con el mejor flow de la ciudad."
+        "En MAT Pro Studio, cada corte, cada detalle y cada atención están pensados para quienes no se conforman con lo común. Somos más que una barbería: somos un punto de encuentro entre elegancia, precisión y estilo urbano. Nuestro equipo de barberos expertos está listo para darte un servicio de primer nivel en un ambiente moderno, exclusivo y con el mejor flow de la ciudad."
       </p>
 
       {/* Social media buttons */}

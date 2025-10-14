@@ -274,7 +274,7 @@ const ServiciosAgendamientoFinalUser = () => {
       console.log('Payload a enviar:', JSON.stringify(appointmentData, null, 2))
       
       // Realizar la petición POST a la API
-      const response = await axios.post('https://backend-mat.vercel.app/api/calendar/appointments', appointmentData, {
+      const response = await axios.post('https://backend-MAT Pro Studio.vercel.app/api/calendar/appointments', appointmentData, {
         headers: {
           'Content-Type': 'application/json'
         }
